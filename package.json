@@ -12,5 +12,13 @@
     "array"
   ],
   "author": "Rakesh Sharma <raks437@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raks437/mirrorKeys.git"
+  },
+  "bugs": {
+    "url": "https://github.com/raks437/mirrorKeys/issues"
+  },
+  "homepage": "https://github.com/raks437/mirrorKeys#readme"
 }
