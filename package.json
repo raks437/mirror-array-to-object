@@ -1,5 +1,5 @@
 {
-  "name": "mirror-keys",
+  "name": "mirror-array-to-object",
   "version": "0.0.1",
   "description": "Create an object with both keys and values equals to each index of array of strings.",
   "main": "main.js",
@@ -15,10 +15,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raks437/mirrorKeys.git"
+    "url": "git+https://github.com/raks437/mirror-array-to-object.git"
   },
   "bugs": {
-    "url": "https://github.com/raks437/mirrorKeys/issues"
+    "url": "https://github.com/raks437/mirror-array-to-object/issues"
   },
-  "homepage": "https://github.com/raks437/mirrorKeys#readme"
+  "homepage": "https://github.com/raks437/mirror-array-to-object#readme"
 }
