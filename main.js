@@ -14,7 +14,7 @@
  * @return {object}
  */
 
-var mirrorKeys = function(arr) {git
+var mirrorKeys = function(arr) {
   try {
     if ((arr === undefined) || !(arr instanceof Array)) {
       throw new Error('mirrorKeys(...): Arguments must be an array.');
