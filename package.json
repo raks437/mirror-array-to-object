@@ -1,7 +1,7 @@
 {
   "name": "mirror-keys",
   "version": "0.0.1",
-  "description": "Quickly create an object with the same key and values as the passed array of strings",
+  "description": "Create an object with both keys and values equals to each index of array of strings.",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
