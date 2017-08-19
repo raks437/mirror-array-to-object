@@ -4,7 +4,7 @@ Create an object with both keys and values equals to each index of array of stri
 ## Usage
 
 ```
-npm install mirror-keys
+npm install mirror-array-to-object
 ```
 
 ```js
