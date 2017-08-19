@@ -1,4 +1,4 @@
-# Mirror-Keys
+# Mirror-Array-To-Object
 Create an object with both keys and values equals to each index of array of strings.
 
 ## Install
