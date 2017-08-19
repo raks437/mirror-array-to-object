@@ -10,7 +10,7 @@ npm install mirror-array-to-object
 ## Usage
 
 ```js
-var mirrorKeys = require('mirrorKeys');
+var mirrorKeys = require('mirror-array-to-object');
 
 // Create an object with the keys and values
 // same as COLORS = {blue: 'blue', green: 'green', yellow: 'yellow', red: 'red'};
