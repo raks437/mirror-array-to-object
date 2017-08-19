@@ -1,11 +1,13 @@
 # Mirror-Keys
 Create an object with both keys and values equals to each index of array of strings.
 
-## Usage
+## Install
 
 ```
 npm install mirror-array-to-object
 ```
+
+## Usage
 
 ```js
 var mirrorKeys = require('mirrorKeys');
