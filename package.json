@@ -1,6 +1,6 @@
 {
   "name": "mirror-array-to-object",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Create an object with both keys and values equals to each index of array of strings.",
   "main": "main.js",
   "scripts": {
